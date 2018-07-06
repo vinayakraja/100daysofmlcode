@@ -1,0 +1,9 @@
+## Day 1: Matrix Multiplication and Vectorization Tutorial using Numpy 
+
+Things covered: 
+  1. Overview to Numpy Package 
+  2. Vectorization 
+  3. Dot product using numpy 
+  4. sigmoid function impelemention
+  5. loss function for logistic Regression 
+  6. Softmax function Implemention 
